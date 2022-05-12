@@ -3,9 +3,9 @@
 <h3 align="center">A junior computer science student at Faculty of Computers and Artificial Intelligence</h3>
 <br>
 
-- 🌱 I’m currently learning **Flutter**
-
 - 🎯 I’m currently focusing on **Mobile Development technologies**
+
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **Mustafa.zakria21@gmail.com**
 
