@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mustafa Zakaria</h1>
 <br>
-<h3 align="center">A junior computer science student at Faculty of Computers and Artificial Intelligence</h3>
+<h3 align="center">A senior computer science student at Faculty of Computers and Artificial Intelligence</h3>
 <br>
 
 
