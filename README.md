@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mustafa Zakaria</h1>
 <br>
-<h3 align="center">Android developer | Computer Science student</h3>
+<h3 align="center">Android developer | Software engineer</h3>
 <br>
 
 
